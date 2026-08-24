@@ -15,11 +15,10 @@ Estudiante de **Ingeniería de Sistemas en la Universidad Industrial de Santande
 
 ### 🚀 Proyectos destacados
 
-> Reemplaza estos enlaces por los de tus repos reales (ej. el sistema de seguridad para cocinas industriales o el botón de pánico con ESP32).
+### 🚀 Proyectos destacados
 
-* **[Nombre del proyecto 1](https://github.com/cesardanielavilabarbosa-blip/ia1-iaMedica-riesgo_reingreso_hospitalario)** — Descripción corta de una línea sobre qué hace y qué tecnologías usa.
-* **[Nombre del proyecto 2](https://github.com/Cayalam/cocinas_industriales_IoT_1)** — Descripción corta de una línea.
-
+* **[IA Médica: Riesgo de Reingreso Hospitalario](https://github.com/cesardanielavilabarbosa-blip/ia1-iaMedica-riesgo_reingreso_hospitalario)** — Modelo de machine learning para predecir riesgo de reingreso hospitalario. *(Ajusta esta línea con el stack y el enfoque real que usaste.)*
+* **[Sistema de Seguridad IoT para Cocinas Industriales](https://github.com/Cayalam/cocinas_industriales_IoT_1)** — Prototipo IoT (ESP32 + backend Django + frontend Vite) para monitoreo de condiciones de riesgo en cocinas industriales, con pruebas de escalabilidad tipo Smart Campus UIS. Proyecto de grado junto a Carlos Ayala.
 ---
 
 ### 🛠️ Tecnologías y Herramientas
