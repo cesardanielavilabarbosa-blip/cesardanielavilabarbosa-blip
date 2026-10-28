@@ -1,21 +1,21 @@
-# ¡Hola, soy César Daniel Ávila Barbosa! 👋
+# Hola, soy César Daniel Ávila Barbosa
 
 <img src="https://komarev.com/ghpvc/?username=cesardanielavilabarbosa-blip&color=blueviolet&style=flat-square" alt="Profile views" />
 
-Estudiante de **Ingeniería de Sistemas en la Universidad Industrial de Santander (UIS)** 🇨🇴. Apasionado por el desarrollo de software, la integración de hardware y la inteligencia artificial. Siempre en constante aprendizaje y construyendo soluciones tecnológicas prácticas.
+Estudiante de **Ingeniería de Sistemas en la Universidad Industrial de Santander (UIS)** . Apasionado por el desarrollo de software, la integración de hardware y la inteligencia artificial. Siempre en constante aprendizaje y construyendo soluciones tecnológicas prácticas.
 
 ---
 
-### 💻 ¿A qué me dedico?
-* ⚡ **Sistemas Embebidos e IoT:** Desarrollo de prototipos y sistemas (como control de gas/temperatura y hardware integrado con ESP32/Arduino).
-* 🤖 **Machine Learning & Data Science:** Creación de modelos de predicción y análisis de datos (como sistemas de IA médica).
-* 🛠️ **Desarrollo de Software:** Construcción de soluciones robustas utilizando Python, C++, Linux y Git.
+###  ¿A qué me dedico?
+*  **Sistemas Embebidos e IoT:** Desarrollo de prototipos y sistemas (como control de gas/temperatura y hardware integrado con ESP32/Arduino).
+*  **Machine Learning & Data Science:** Creación de modelos de predicción y análisis de datos (como sistemas de IA médica).
+*  **Desarrollo de Software:** Construcción de soluciones robustas utilizando Python, C++, Linux y Git.
 
 ---
 
-### 🚀 Proyectos destacados
+###  Proyectos destacados
 
-### 🚀 Proyectos destacados
+###  Proyectos destacados
 
 * **[IA Médica: Riesgo de Reingreso Hospitalario](https://github.com/cesardanielavilabarbosa-blip/ia1-iaMedica-riesgo_reingreso_hospitalario)** — Modelo de machine learning para predecir riesgo de reingreso hospitalario. *(Ajusta esta línea con el stack y el enfoque real que usaste.)*
 * **[Sistema de Seguridad IoT para Cocinas Industriales](https://github.com/Cayalam/cocinas_industriales_IoT_1)** — Prototipo IoT (ESP32 + backend Django + frontend Vite) para monitoreo de condiciones de riesgo en cocinas industriales, con pruebas de escalabilidad tipo Smart Campus UIS. Proyecto de grado junto a Carlos Ayala.
@@ -37,7 +37,7 @@ Estudiante de **Ingeniería de Sistemas en la Universidad Industrial de Santande
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <!--
   Si estas imágenes no cargan, es el servicio gratuito de Vercel que está caído
@@ -51,7 +51,7 @@ Estudiante de **Ingeniería de Sistemas en la Universidad Industrial de Santande
 
 ---
 
-### 📫 ¿Cómo contactarme?
+### ¿Cómo contactarme?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-%C3%A1vila-b14582276/" target="_blank">
@@ -59,4 +59,4 @@ Estudiante de **Ingeniería de Sistemas en la Universidad Industrial de Santande
   </a>
 </p>
 
-🏫 Universidad Industrial de Santander (UIS) - Bucaramanga, Colombia
+Universidad Industrial de Santander (UIS) - Bucaramanga, Colombia
